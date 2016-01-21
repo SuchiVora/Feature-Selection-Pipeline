@@ -1,0 +1,30 @@
+
+SVM:
+F- Measure::92.05254515599344
+Precision:92.4025974025974
+Accuracy:92.0
+Recall::92.00000000000001
+
+NaiveBayes:
+F- Measure::86.12516072002572
+Precision:86.77979578928345
+Accuracy:86.66666666666667
+Recall::86.66666666666666
+
+Random Forest:
+F- Measure::84.69671347695022
+Precision:85.64379314379315
+Accuracy:84.66666666666667
+Recall::84.66666666666667
+
+Decision Tree:
+F- Measure::77.79987912669034
+Precision:77.79280397022333
+Accuracy:78.0
+Recall::78.0
+
+KNN:
+F- Measure::85.92968091786886
+Precision:86.50162392097876
+Accuracy:86.0
+Recall::86.0
