@@ -44,9 +44,9 @@ For each feature selection algorithm applied to the dataset namely two files are
 1. Open the command line; Navigate to the location where the FSP jar is stored.
 2. The FSP jar takes two runtime arguments: name of the dataset and csv dataset file. Run the following Command:
 
-         java -jar feature_selection.jar [name of the datatset] [csv dataset file]
+         java -jar featureselectionpipeline.jar [name of the datatset] [csv dataset file]
 
-         e.g.: java -jar feature_selection.jar polarity trainpolarity.csv
+         e.g.: java -jar featureselectionpipeline.jar polarity trainpolarity.csv
 
 3. Once command is run following screen:
 
