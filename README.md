@@ -1,7 +1,7 @@
-#Feature-Selection-Pipeline Project
-##A. Requirements: 
+# Feature-Selection-Pipeline Project
+## A. Requirements: 
 In order to run FSP, the following packages are required: Java 1.7+, Python 2.7, SciPy and Scikit Learn. 
-##B. Dataset Format:
+## B. Dataset Format:
 The FSP jar accepts the data in the csv file format. For each dataset, the file must contain header as the first row followed by the data. The header contains the features names mapped to numbers as columns except the last column, which is named as “class”. The class column contains the target labels/class. The data is represented in binary feature vector format which indicates the presence / absence of the feature in a row in a dataset. Note that the class labels cannot be numeric values. Missing values in dataset should be left blank.
 
 Here is a sample dataset represented in the format required by FSP.
